@@ -1,1 +1,8 @@
-
+export default function Home() {
+  return (
+    <div>
+      <h1>🚀 Meine neue Next.js Website!</h1>
+      <p>Diese Seite läuft auf Vercel.</p>
+    </div>
+  );
+}
